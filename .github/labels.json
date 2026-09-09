@@ -1,0 +1,69 @@
+{
+  "labels": [
+    {
+      "name": "severity-critical",
+      "color": "FF0000",
+      "description": "Critical severity - system down or major feature broken"
+    },
+    {
+      "name": "severity-high",
+      "color": "FF6600",
+      "description": "High severity - major feature affected"
+    },
+    {
+      "name": "severity-medium",
+      "color": "FFCC00",
+      "description": "Medium severity - minor feature or workaround available"
+    },
+    {
+      "name": "severity-low",
+      "color": "00CC00",
+      "description": "Low severity - cosmetic or minimal impact"
+    },
+    {
+      "name": "priority-high",
+      "color": "CC0000",
+      "description": "High priority - fix immediately"
+    },
+    {
+      "name": "priority-medium",
+      "color": "CCAA00",
+      "description": "Medium priority - fix in current sprint"
+    },
+    {
+      "name": "priority-low",
+      "color": "00AA00",
+      "description": "Low priority - backlog item"
+    },
+    {
+      "name": "status-new",
+      "color": "0075CA",
+      "description": "New - awaiting triage"
+    },
+    {
+      "name": "status-in-progress",
+      "color": "1F883D",
+      "description": "In Progress - being worked on"
+    },
+    {
+      "name": "status-for-retest",
+      "color": "A371F7",
+      "description": "For Retest - awaiting confirmation testing"
+    },
+    {
+      "name": "duplicate",
+      "color": "CCCCCC",
+      "description": "Duplicate of another issue"
+    },
+    {
+      "name": "deferred",
+      "color": "696969",
+      "description": "Deferred - postponed for future release"
+    },
+    {
+      "name": "not-a-defect",
+      "color": "D4AF37",
+      "description": "Not a defect - working as designed or user error"
+    }
+  ]
+}
