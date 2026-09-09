@@ -1,6 +1,6 @@
 # IT414 Defect Triage Lab - GitHub Issues Setup
 
-**Repository:** [kjmasarap/IT414-Defect-Triage-Group01](https://github.com/kjmasarap/IT414-Defect-Triage-Group01)
+**Repository:** [kjmasarap/IT414-Defect-Triage-Group01](https://github.com/kjmasarap/IT414-Defect-Triage-Group04)
 
 ## Overview
 
