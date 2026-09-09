@@ -1,7 +1,7 @@
 # IT414 Defect Triage Lab - GitHub Issues Setup
 
-**Repository:** [kjmasarap/IT414-Defect-Triage-Group01](https://github.com/kjmasarap/IT414-Defect-Triage-Group04)
-
+**Repository:** [kjmasarap/IT414-Defect-Triage-Group01]
+https://github.com/kjmasarap/IT414-Defect-Triage-Group04
 ## Overview
 
 This repository contains the IT414 System Quality Assurance - GitHub Issues Defect Triage Lab. The lab demonstrates professional defect identification, triage, and lifecycle management using GitHub Issues.
