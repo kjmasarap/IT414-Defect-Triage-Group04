@@ -226,7 +226,7 @@ Move issues through the board as they progress through the lifecycle.
 ## Repository Links
 
 - **Issues:** https://github.com/kjmasarap/IT414-Defect-Triage-Group04/issues
-- **Labels:** https://github.com/kjmasarap/IT414-Defect-Triage-Group01/labels
+- **Labels:** https://github.com/kjmasarap/IT414-Defect-Triage-Group04/labels
 - **Repository:** https://github.com/kjmasarap/IT414-Defect-Triage-Group01
 
 ---
