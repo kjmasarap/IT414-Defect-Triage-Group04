@@ -8,7 +8,7 @@ This repository contains the IT414 System Quality Assurance - GitHub Issues Defe
 
 ## Part A: Repository Setup ✓
 
-- [x] Repository created: `IT414-Defect-Triage-Group01`
+- [x] Repository created: `IT414-Defect-Triage-Group04`
 - [x] Issues feature enabled
 - [x] Labels configured in `.github/labels.json`
 
