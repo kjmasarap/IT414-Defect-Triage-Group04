@@ -62,7 +62,7 @@ This repository contains the IT414 System Quality Assurance - GitHub Issues Defe
 
 ### Quick Start
 
-1. Navigate to the Issues tab: https://github.com/kjmasarap/IT414-Defect-Triage-Group01/issues
+1. Navigate to the Issues tab: https://github.com/kjmasarap/IT414-Defect-Triage-Group04/issues
 2. Click **"New Issue"** button
 3. Use the templates provided in `ISSUE_TEMPLATES.md` and `ADDITIONAL_SCENARIOS.md`
 
